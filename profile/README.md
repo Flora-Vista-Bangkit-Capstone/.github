@@ -23,7 +23,7 @@ Hello everyone 😊, Our team consists of
 <br>
 
 ## Project Description ❓
-An Mobile Agriculture Application that aim to assist help beginners and experts to facilitate the users in starting and managing a farm
+An Mobile Agriculture Application that aim to assist & help beginners and experts to facilitate the users in starting and managing a farm
 
 This Include :
 - Food crop & identification
