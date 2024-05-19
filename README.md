@@ -1,6 +1,6 @@
 <h1 align="center">🌾Flora Vista</h1>
 <p align="center">
-  <img src="https://github.com/Flora-Vista-Bangkit-Capstone/.github/blob/main/logo.png" alt="logo.jpg">
+  <img src="https://github.com/Flora-Vista-Bangkit-Capstone/.github/blob/main/logo.jpg" alt="/logo.jpg">
 </p>
 <h3 align="center">Bangkit Project Capstone</h3>
 <h4 align="center">Created by Our Team (Team ID: C241-PS256)</h4>
